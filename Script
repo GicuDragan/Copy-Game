@@ -1,0 +1,4 @@
+-- This Script copies a game.(only works with Synapse x
+
+
+saveinstance({decomptype = new})
